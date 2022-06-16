@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an example of the study questions corresponding
+  to the lectures.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
