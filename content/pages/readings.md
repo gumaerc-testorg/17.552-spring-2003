@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: 'This section provides information on required and recommended readings
+  for the course. '
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: baa6ba90-fffc-4581-9f62-e42e9674234c
 ---
 
-The following readings are required for this course. See the [calendar]({{< baseurl >}}/pages/calendar) section for corresponding topics.
+The following readings are required for this course. See the {{% resource_link ed2db386-0791-9288-fda7-ebcd544a1ce7 "calendar" %}} section for corresponding topics.
 
 Alford, William. "[The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China](http://web.stanford.edu/group/siepr/cgi-bin/siepr/?q=system/files/shared/pubs/papers/pdf/credpr59.pdf)." Center for Research on Economic Development and Policy Reform. Working Paper no. 59. Stanford University, August 2000.
 
