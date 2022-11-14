@@ -2,6 +2,7 @@
   "term": "Spring",
   "year": "2003",
   "level": [
+    "Undergraduate",
     "Graduate"
   ],
   "topics": [
@@ -48,6 +49,7 @@
     "website": "17-552-political-economy-of-chinese-reform-spring-2003"
   },
   "learning_resource_types": [],
-  "site_uid": "a216958a-f119-4642-83e4-4c59ec8a683f",
+  "site_uid": "32a72141-ed26-411c-843b-8f17c41539f0",
+  "short_id": "17.552-spring-2003",
   "title": "Course Metadata"
 }
