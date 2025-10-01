@@ -11,7 +11,7 @@ uid: baa6ba90-fffc-4581-9f62-e42e9674234c
 
 The following readings are required for this course. See the {{% resource_link ed2db386-0791-9288-fda7-ebcd544a1ce7 "calendar" %}} section for corresponding topics.
 
-Alford, William. "[The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China](http://web.stanford.edu/group/siepr/cgi-bin/siepr/?q=system/files/shared/pubs/papers/pdf/credpr59.pdf)." Center for Research on Economic Development and Policy Reform. Working Paper no. 59. Stanford University, August 2000.
+Alford, William. "{{% resource_link "08b05957-e896-44e8-839d-519f49704b3c" "The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China" %}}." Center for Research on Economic Development and Policy Reform. Working Paper no. 59. Stanford University, August 2000.
 
 Recommended
 -----------
@@ -20,17 +20,17 @@ Amsden, Alice H. _Asia's Next Giant_. Oxford: Oxford Univ. Press, 1989, pp. 3-23
 
 Ash, Robert F. "The Evolution of Agricultural Policy." _The China Quarterly_ 116 (Dec. 1988): 529-555.
 
-Blecher, Marc J. "Hegemony and Workers' Politics in China." _[The China Quarterly](http://journals.cambridge.org/action/displayJournal?jid=CQY&volumeId=170&bVolume=y#loc170)_, no. 170 (June 2002): 283-303.  
+Blecher, Marc J. "Hegemony and Workers' Politics in China." _{{% resource_link "2539619e-c672-4181-b2d3-8432e86bc7f4" "The China Quarterly" %}}_, no. 170 (June 2002): 283-303.  
  
 
 Boycko, Maxim, Andrei Shleifer, and Robert Vishny. _Privatizing Russia_. Cambridge: MIT Press, 1995, pp. 19-67.
 
-Cai, Yongshun. "The Resistance of Chinese Laid-off Workers in the Reform Period." _[The China Quarterly](http://journals.cambridge.org/action/displayJournal?jid=CQY&volumeId=170&bVolume=y#loc170)_, no. 170 (June 2002): 327-344.  
+Cai, Yongshun. "The Resistance of Chinese Laid-off Workers in the Reform Period." _{{% resource_link "2539619e-c672-4181-b2d3-8432e86bc7f4" "The China Quarterly" %}}_, no. 170 (June 2002): 327-344.  
  
 
 Carruthers, Bruce G., and Terence C. Halliday. _Rescuing Business: The Making of Corporate Bankruptcy Law in England and the United States_. Oxford: Oxford Univ. Press, 1998, 15-62.
 
-Ding, X. L. "The Quasi-Criminalization of a Business Sector in China." _[Crime, Law & Social Change](http://link.springer.com/article/10.1023%2FA%3A1011294000877?LI=true)_ 35, 3 (April 2001): 177-202.
+Ding, X. L. "The Quasi-Criminalization of a Business Sector in China." _{{% resource_link "6ba0aee5-016a-47eb-ae86-097e9c6f5234" "Crime, Law & Social Change" %}}_ 35, 3 (April 2001): 177-202.
 
 Elisabeth, J. Croll. "Social Welfare Reform: Trends and Tensions." _The China Quarterly_, no. 159 (September 1999): 684-699.
 
@@ -48,7 +48,7 @@ Kojima, Reeitsu. "Agricultural Organization: New Forms, New Contradictions." _Th
 
 Langlois, John D. "The WTO and China's Financial System." _The China Quarterly_, no. 167 (September 2001): 610-629.
 
-Lardy, Nicholas R. "[When Will China's Financial System Meet China's Needs?](https://kingcenter.stanford.edu/sites/default/files/publications/55wp.pdf)." Paper prepared for Conference on Policy Reform in China, Center for Research on Economic Development and Policy Reform. Stanford University, Stanford, CA. November 18-20, 1999 (Revised February 2000).  
+Lardy, Nicholas R. "{{% resource_link "3c641398-cd30-44e6-a5a7-3d5f4bfb29da" "When Will China's Financial System Meet China's Needs?" %}}." Paper prepared for Conference on Policy Reform in China, Center for Research on Economic Development and Policy Reform. Stanford University, Stanford, CA. November 18-20, 1999 (Revised February 2000).  
  
 
 \------ _China's Unfinished Economic Revolution_. Washington: Brookings, 1998, pp. 1-20, 59-127.
@@ -57,7 +57,7 @@ Lardy, Nicholas R. "[When Will China's Financial System Meet China's Needs?](htt
 
 Minxin, Pei. "China's Governance Crisis." _Foreign Affairs._ (Sept/Oct. 2002).
 
-Naughton, Barry. "[How Much Can Regional Integration Do to Unify China's Markets?](https://pdfs.semanticscholar.org/8be1/2d8904f92b96af8665f3b8655a20db3bbcff.pdf)" Center for Research on Economic Development and Policy Reform. Working Paper no. 58. Stanford University, August 2000.
+Naughton, Barry. "{{% resource_link "51f75552-f88a-45f9-ab10-8ec6f55dadfa" "How Much Can Regional Integration Do to Unify China's Markets?" %}}" Center for Research on Economic Development and Policy Reform. Working Paper no. 58. Stanford University, August 2000.
 
 \------ _Growing Out of the Plan_. Cambridge: Cambridge Univ. Press, 1996, pp. 26-55.
 
@@ -71,7 +71,7 @@ Peerenboom, Randall. _China's Long March Toward Rule of Law_. New York: Cambridg
 
 Perkins, Dwight. "Industrial and Financial Policies in China and Vietnam: A New Model or a Replay of the East Asian Experience?" In _The East Asian Miracle Revisited_. Edited by Joseph Stiglitz and Shahid Yusuf. Oxford: Oxford Univ. Press, 2001, 247-294.
 
-Pinto, Brian, Vladimir Drebentsov, and Alexander Morozov. "[Dismantling Russia's Nonpayments System: Creating Conditions for Growth.](http://www.worldbank.org.ru/eng/statistics/nonpayments/)" _World Bank._ 1999.
+Pinto, Brian, Vladimir Drebentsov, and Alexander Morozov. "{{% resource_link "53530498-ff60-4f04-b2f8-a2aa9f621032" "Dismantling Russia's Nonpayments System: Creating Conditions for Growth." %}}" _World Bank._ 1999.
 
 Qian, Yingyi, and Xu Chenggang. "Why China's Economic Reforms Differ: The M-form  
 Rawski, Thomas G. "Reforming China's Economy: What Have We Learned?" _The China Journal_, no. 41 (Jan. 1999): 139-156.
@@ -88,20 +88,20 @@ Steinfeld, Edward S. "Chinese Enterprise Development and the Challenge of Global
 
 \------ _Forging Reform in China: The Fate of State-Owned Industry_. Cambridge: Cambridge Univ. Press, 1998, pp. 1-24, 45-77, 124-164.
 
-Stiglitz, Joseph. "China: Forging a Third Generation of Reforms." Speech delivered July 23, 1999, Beijing, China. (download from [www.worldbank.org](http://www.worldbank.org), search for "Stiglitz")  
+Stiglitz, Joseph. "China: Forging a Third Generation of Reforms." Speech delivered July 23, 1999, Beijing, China. (download from {{% resource_link "a944b61e-3edc-46d7-b153-6ed6c8d63c51" "www.worldbank.org" %}}, search for "Stiglitz")  
  
 
-Stiglitz, Joseph E. "[Wither Reform? Ten Years of Transition.](http://www.worldbank.org/research/abcde/washington_11/papers.html)" Paper prepared for World Bank Annual Conference on Development Economics. Washington D.C., April 1999.
+Stiglitz, Joseph E. "{{% resource_link "88703c36-30ff-4b18-90bc-51dbe4ebaac5" "Wither Reform? Ten Years of Transition." %}}" Paper prepared for World Bank Annual Conference on Development Economics. Washington D.C., April 1999.
 
 \------ Whither. _Socialism_. Cambridge: MIT Press, 1994, pp. 207-229.
 
-Tenev, Stoyan, and Chunlin Zhang. _Corporate Governance and Enterprise Reform in China_. Washington: World Bank/IFC, 2002, pp. 1-104. ([PDF](http://www.ifc.org/publications/pubs/corp_gov/frontmatter.pdf))
+Tenev, Stoyan, and Chunlin Zhang. _Corporate Governance and Enterprise Reform in China_. Washington: World Bank/IFC, 2002, pp. 1-104. ({{% resource_link "045817f2-1848-4819-859d-a1661385a332" "PDF" %}})
 
-\------ _Corporate Governance and Enterprise Reform in China_. Washington: World Bank/IFC, 2002. skim entire book. ([PDF](http://www.ifc.org/publications/pubs/corp_gov/frontmatter.pdf))
+\------ _Corporate Governance and Enterprise Reform in China_. Washington: World Bank/IFC, 2002. skim entire book. ({{% resource_link "045817f2-1848-4819-859d-a1661385a332" "PDF" %}})
 
 Unger, Jonathan, and Anita Chan. "Inheritors of the Boom: Private Enterprise and the Role of Local Government in a Rural South China Township." _The China Journal_, no. 42 (July 1999): 45-76.
 
-United Nations Conference on Trade and Development. _[World Investment Report 2001: Promoting Linkages.](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=656)_ United Nations, Geneva, 2001. (read "Overview."
+United Nations Conference on Trade and Development. _{{% resource_link "aa15c379-f7f0-4d20-9e62-a96059ec3fec" "World Investment Report 2001: Promoting Linkages." %}}_ United Nations, Geneva, 2001. (read "Overview."
 
 Woo, Wing Thye. "The Real Reasons for China's Growth." _The China Journal_, no. 41 (Jan. 1999): 115-137.
 
