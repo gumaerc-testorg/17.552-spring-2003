@@ -24,9 +24,9 @@ Rawski, Thomas G. "Reforming China's Economy: What Have We Learned?" *The China 
 
 Woo, Wing Thye. "The Real Reasons for China's Growth." *The China Journal*, No. 41 (Jan. 1999): 115-137.
 
-Stiglitz, Joseph E. "Wither Reform? Ten Years of Transition." Paper prepared for World Bank Annual Conference on Development Economics, Washington D.C., April 1999. ([http://www.worldbank.org/research/abcde/washington_11/papers.html](http://www.worldbank.org/research/abcde/washington_11/papers.html))
+Stiglitz, Joseph E. "Wither Reform? Ten Years of Transition." Paper prepared for World Bank Annual Conference on Development Economics, Washington D.C., April 1999. ({{% resource_link "88703c36-30ff-4b18-90bc-51dbe4ebaac5" "http://www.worldbank.org/research/abcde/washington_11/papers.html" %}})
 
-Lardy, Nicholas R. "[When Will China's Financial System Meet China's Needs?.](https://siepr.stanford.edu/sites/default/files/publications/55wp.pdf)" Paper prepared for Conference on Policy Reform in China, Center for Research on Economic Development and Policy Reform, Stanford University, Stanford, CA, November 18-20, 1999 (Revised February 2000).
+Lardy, Nicholas R. "{{% resource_link "ab3582b5-9a9d-434b-a60a-9b9dfec34758" "When Will China's Financial System Meet China's Needs?." %}}" Paper prepared for Conference on Policy Reform in China, Center for Research on Economic Development and Policy Reform, Stanford University, Stanford, CA, November 18-20, 1999 (Revised February 2000).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -68,7 +68,7 @@ Boycko, Maxim, Andrei Shleifer, and Robert Vishny. *Privatizing Russia*. Cambrid
 
 Steinfeld, Edward S. *Forging Reform in China: The Fate of State-Owned Industry*. Cambridge: Cambridge Univ. Press, 1998, Pp. 1-24, 45-77, 124-164.
 
-Tenev, Stoyan, and Chunlin Zhang. *Corporate Governance and Enterprise Reform in China*. Washington: World Bank/IFC, 2002, Pp. 1-104. ([PDF](http://www.ifc.org/publications/pubs/corp_gov/frontmatter.pdf))
+Tenev, Stoyan, and Chunlin Zhang. *Corporate Governance and Enterprise Reform in China*. Washington: World Bank/IFC, 2002, Pp. 1-104. ({{% resource_link "045817f2-1848-4819-859d-a1661385a332" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -76,7 +76,7 @@ Tenev, Stoyan, and Chunlin Zhang. *Corporate Governance and Enterprise Reform in
 The Rise Of The Private Sector
 {{< tdclose >}}{{< tdopen >}}
 
-Gregory, Neil, Stoyan Tenev, and Dileep Wagle. *China's Emerging Private Enterprises: Prospects for the New Century*, International Finance Corporation, 2000 ([http://www.ifc.org/publications/](http://www.ifc.org/publications/))
+Gregory, Neil, Stoyan Tenev, and Dileep Wagle. *China's Emerging Private Enterprises: Prospects for the New Century*, International Finance Corporation, 2000 ({{% resource_link "59cd5d64-e9b9-4e2c-94e2-bc1769ff3918" "http://www.ifc.org/publications/" %}})
 
 Unger, Jonathan, and Anita Chan. "Inheritors of the Boom: Private Enterprise and the Role of Local Government in a Rural South China Township." *The China Journal*, no. 42 (July 1999): 45-76.
 
@@ -100,13 +100,13 @@ Steinfeld, Edward S. "Free Lunch or Last Supper: China's Debt-Equity Swaps in Co
 Public Governance And Rule Of Law
 {{< tdclose >}}{{< tdopen >}}
 
-Naughton, Barry. "How Much Can Regional Integration Do to Unify China's Markets?" Center for Research on Economic Development and Policy Reform, Working Paper no. 58, Stanford University, August 2000. ([http://credpr.stanford.edu/publications/abstracts.html#58](http://credpr.stanford.edu/publications/abstracts.html#58))
+Naughton, Barry. "How Much Can Regional Integration Do to Unify China's Markets?" Center for Research on Economic Development and Policy Reform, Working Paper no. 58, Stanford University, August 2000. ({{% resource_link "f4f24178-270c-4538-abf8-29b299d2f447" "http://credpr.stanford.edu/publications/abstracts.html#58" %}})
 
 Young, Alwyn. "The Razor's Edge: Distortions and Incremental Reform in the People's Republic of China." *The Quarterly Journal of Economics*, Vol. CXV, no. 4.
 
-Ding, X.L. "The Quasi-Criminalization of a Business Sector in China." [Crime, Law & Social Change](http://link.springer.com/article/10.1023%2FA%3A1011294000877?LI=true), Vol.35, No.3 (April 2001): 177-202.
+Ding, X.L. "The Quasi-Criminalization of a Business Sector in China." {{% resource_link "6ba0aee5-016a-47eb-ae86-097e9c6f5234" "Crime, Law & Social Change" %}}, Vol.35, No.3 (April 2001): 177-202.
 
-Alford, William. "[The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China.](http://web.stanford.edu/group/siepr/cgi-bin/siepr/?q=system/files/shared/pubs/papers/pdf/credpr59.pdf)" Center for Research on Economic Development and Policy Reform, Working Paper no. 59, Stanford University, August 2000.
+Alford, William. "{{% resource_link "08b05957-e896-44e8-839d-519f49704b3c" "The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China." %}}" Center for Research on Economic Development and Policy Reform, Working Paper no. 59, Stanford University, August 2000.
 
 **Recommended**: Peerenboom, Randall. *China's Long March Toward Rule of Law*. New York: Cambridge Univ. Press, 2002.
 
@@ -116,13 +116,13 @@ Alford, William. "[The More Law, the More . . .? Measuring Legal Reform in the P
 Corporate Governance
 {{< tdclose >}}{{< tdopen >}}
 
-Pinto, Brian, Vladimir Drebentsov, and Alexander Morozov. "Dismantling Russia's Nonpayments System: Creating Conditions for Growth." *World Bank*, 1999. ([http://www.worldbank.org.ru/eng/statistics/nonpayments/](http://www.worldbank.org.ru/eng/statistics/nonpayments/))
+Pinto, Brian, Vladimir Drebentsov, and Alexander Morozov. "Dismantling Russia's Nonpayments System: Creating Conditions for Growth." *World Bank*, 1999. ({{% resource_link "53530498-ff60-4f04-b2f8-a2aa9f621032" "http://www.worldbank.org.ru/eng/statistics/nonpayments/" %}})
 
 Carruthers, Bruce G., and Terence C. Halliday. *Rescuing Business: The Making of Corporate Bankruptcy Law in England and the United States*. Oxford: Oxford Univ. Press, 1998, Pp. 15-62.
 
 Pan, Philip. "High Tide of Labor Unrest in China." *The Washington Post*, Jan. 21, 2002.
 
-Tenev, Stoyan, and Chunlin Zhang. *Corporate Governance and Enterprise Reform in China*. Washington: World Bank/IFC, 2002, skim entire book. [http://www.ifc.org/publications/pubs/corp_gov/frontmatter.pdf](http://www.ifc.org/publications/pubs/corp_gov/frontmatter.pdf)
+Tenev, Stoyan, and Chunlin Zhang. *Corporate Governance and Enterprise Reform in China*. Washington: World Bank/IFC, 2002, skim entire book. {{% resource_link "045817f2-1848-4819-859d-a1661385a332" "http://www.ifc.org/publications/pubs/corp_gov/frontmatter.pdf" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -130,7 +130,7 @@ Tenev, Stoyan, and Chunlin Zhang. *Corporate Governance and Enterprise Reform in
 Social Security And Pension Reform
 {{< tdclose >}}{{< tdopen >}}
 
-Hussain, Athar. "[Social Welfare in China in the Context of Three Transitions.](https://kingcenter.stanford.edu/publications/social-welfare-china-context-three-transitions)" Center for Research on Economic Development and Policy Reform, Working Paper no. 66, Stanford University, August 2000.
+Hussain, Athar. "{{% resource_link "551a130f-577f-4d13-86d9-2ec5c08d6b1b" "Social Welfare in China in the Context of Three Transitions." %}}" Center for Research on Economic Development and Policy Reform, Working Paper no. 66, Stanford University, August 2000.
 
 Croll, Elisabeth J. "Social Welfare Reform: Trends and Tensions," *The China Quarterly*, no. 159 (September 1999): 684-699.
 
@@ -142,7 +142,7 @@ James, Estelle. "How Can China Solve Its Old Age Security Problem? The Interacti
 Foreign Direct Investment And WTO
 {{< tdclose >}}{{< tdopen >}}
 
-United Nations Conference on Trade and Development, World Investment Report 2001: Promoting Linkages, United Nations, Geneva, 2001 (read "Overview," available online at [http://www.unctad.org/wir/contents/wir01content.en.htm)](http://www.unctad.org/wir/contents/wir01content.en.htm)).
+United Nations Conference on Trade and Development, World Investment Report 2001: Promoting Linkages, United Nations, Geneva, 2001 (read "Overview," available online at {{% resource_link "edcddb83-c27b-42a3-890a-d5f6318deedf" "http://www.unctad.org/wir/contents/wir01content.en.htm)" %}}).
 
 Huang, Yasheng. *Selling China: Foreign Direct Investment During the Reform Era*. Cambridge: Cambridge Univ. Press, forthcoming, Pp. 8-89.
 
@@ -168,11 +168,11 @@ Steinfeld, Edward S. "Chinese Enterprise Development and the Challenge of Global
 Social Stability And Prospects For The Future
 {{< tdclose >}}{{< tdopen >}}
 
-Stiglitz, Joseph. "China: Forging a Third Generation of Reforms." Speech delivered July 23, 1999, Beijing, China. (download from [www.worldbank.org](http://www.worldbank.org), search for "Stiglitz")
+Stiglitz, Joseph. "China: Forging a Third Generation of Reforms." Speech delivered July 23, 1999, Beijing, China. (download from {{% resource_link "a944b61e-3edc-46d7-b153-6ed6c8d63c51" "www.worldbank.org" %}}, search for "Stiglitz")
 
-Blecher, Marc J. "Hegemony and Workers' Politics in China." [*The China Quarterly*](http://journals.cambridge.org/action/displayJournal?jid=CQY&volumeId=170&bVolume=y#loc170), no. 170 (June 2002): 283-303.
+Blecher, Marc J. "Hegemony and Workers' Politics in China." {{% resource_link "2539619e-c672-4181-b2d3-8432e86bc7f4" "*The China Quarterly*" %}}, no. 170 (June 2002): 283-303.
 
-Cai, Yongshun. "The Resistance of Chinese Laid-off Workers in the Reform Period." [*The China Quarterly*](http://journals.cambridge.org/action/displayJournal?jid=CQY&volumeId=170&bVolume=y#loc170), no. 170 (June 2002): 327-344.
+Cai, Yongshun. "The Resistance of Chinese Laid-off Workers in the Reform Period." {{% resource_link "2539619e-c672-4181-b2d3-8432e86bc7f4" "*The China Quarterly*" %}}, no. 170 (June 2002): 327-344.
 
 Minxin, Pei. "China's Governance Crisis." *Foreign Affairs*, (Sept/Oct. 2002).
 
